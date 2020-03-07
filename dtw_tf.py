@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np
 import pandas as pd
 
-# dataset (N*T)
+# dataset (N*T), dataframe in pandas
 # N: number of points
 # T: len of series
 # in this project, T = 24
