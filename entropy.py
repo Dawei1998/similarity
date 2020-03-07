@@ -42,6 +42,4 @@ def getCondEntropy(s1 , s2):
 print(entropy(A))
 print(condition_entropy(A,B))
 print(getCondEntropy(B,A))
-#test={1:2,0:3,2:1}
-#testP=np.array(list(test.values()))/sum(test.values())
-#print(testP)
+
